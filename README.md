@@ -44,7 +44,6 @@ yarn
 Then, you can run locally in development mode with live reload:
 
 ```
-yarn dev
 ```
 
 Open <http://localhost:3000> with your favorite browser to see your project.

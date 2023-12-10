@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Elgorithm",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -27,9 +27,9 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Algrothims powered with",
+    "subtitle": "Electronics",
+    "description": "Welcome to Elgorithm, where we're transforming the way coding is learned through an exciting fusion of creativity, algorithms, and electronics. Our platform introduces an innovative approach by seamlessly integrating microcontrollers and sensors, allowing students to witness the tangible results of their code interacting with the physical world. With block programming at the forefront, coding becomes a breeze for all ages – a simple drag-and-drop process that visualizes the intricate world of algorithms.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
@@ -41,16 +41,16 @@
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Introducing Pro-Code",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Unleash Your Coding Creativity with the Ultimate Mini Computer!",
+        "description": "Dive into the future of programming with our cutting-edge mini computer, ProCode. Seamlessly connect ProCode to our user-friendly website, where the power of block programming awaits. This compact device is designed for tech enthusiasts of all ages, providing an unparalleled hands-on experience that makes coding a breeze.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Low code to pro-code",
+        "description": "With easy plug-and-play functionality, ProCode accommodates all skill levels, offering block programming for effortless code creation. Explore versatile applications, from basic projects to advanced innovations, and join a vibrant community for collaborative learning. ProCode isn't just a device; it's your gateway to coding excellence. Start your coding journey today with ProCode – where innovation meets simplicity!",
         "img": "/assets/images/product2.jpg"
       }
     ]
