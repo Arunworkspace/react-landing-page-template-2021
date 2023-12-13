@@ -25,17 +25,17 @@ const App = () => {
         </div>
         <MainHeroImage />
       </div>
-      <Canvas />
+      {/* <Canvas /> */}
       <LazyShow>
         <>
           <Product />
-          <Canvas />
+          {/* <Canvas /> */}
         </>
       </LazyShow>
       <LazyShow>
         <>
           <Features />
-          <Canvas />
+          {/* <Canvas /> */}
         </>
       </LazyShow>
       <LazyShow>
