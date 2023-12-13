@@ -5,7 +5,7 @@
     "prettier/prettier": [
       "error",
       {
-        "singleQuote": true
+        "endOfLine": "off"
       }
     ]
   },
@@ -24,7 +24,7 @@
       },
       "rules": {
         "prettier/prettier": [
-          "error",
+          "off",
           {
             "singleQuote": true
           }
