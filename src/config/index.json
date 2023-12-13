@@ -27,12 +27,12 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Algrothims powered with",
-    "subtitle": "Electronics",
-    "description": "Welcome to Elgorithm, where we're transforming the way coding is learned through an exciting fusion of creativity, algorithms, and electronics. Our platform introduces an innovative approach by seamlessly integrating microcontrollers and sensors, allowing students to witness the tangible results of their code interacting with the physical world. With block programming at the forefront, coding becomes a breeze for all ages – a simple drag-and-drop process that visualizes the intricate world of algorithms.",
+    "title": " Unlock Your  ",
+     "subtitle": "Coding Potential",
+    "description": "Welcome to Elgorithm – the ultimate platform for a truly immersive and exciting coding experience. Our innovative platform is built on a fusion of creativity, algorithms, and electronics, allowing users to see the tangible impact of their code in the physical world. By seamlessly integrating microcontrollers and sensors, we offer a unique approach to coding that's both accessible and fun for all ages. With block programming as the foundation, our drag-and-drop process simplifies the intricacies of coding, visualizing the power and potential of algorithms. Join us now and unlock your coding potential today.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Register Now",
       "href": "#"
     },
     "secondaryAction": {
@@ -41,43 +41,43 @@
     }
   },
   "product": {
-    "title": "Introducing Pro-Code",
+    "title": "Master the Art of Coding",
     "items": [
       {
-        "title": "Unleash Your Coding Creativity with the Ultimate Mini Computer!",
-        "description": "Dive into the future of programming with our cutting-edge mini computer, ProCode. Seamlessly connect ProCode to our user-friendly website, where the power of block programming awaits. This compact device is designed for tech enthusiasts of all ages, providing an unparalleled hands-on experience that makes coding a breeze.",
+        "title": "Take your coding skills to the next level with Pro-code",
+        "description": "Embark on a coding adventure with ProCode, the innovative mini computer that revolutionizes programming. With our user-friendly website, ProCode seamlessly connects to provide an unparalleled block programming experience. Designed for tech enthusiasts of all ages, this compact device offers a hands-on approach to coding that makes learning a breeze. Dive into the future of programming and unlock your full potential with ProCode. Get started on your coding journey today",
         "img": "/assets/images/product1.jpg"
       },
       {
         "title": "Low code to pro-code",
-        "description": "With easy plug-and-play functionality, ProCode accommodates all skill levels, offering block programming for effortless code creation. Explore versatile applications, from basic projects to advanced innovations, and join a vibrant community for collaborative learning. ProCode isn't just a device; it's your gateway to coding excellence. Start your coding journey today with ProCode – where innovation meets simplicity!",
+        "description":"Experience the future of coding with ProCode! This cutting-edge mini computer is designed for all skill levels, offering easy plug-and-play functionality and seamless block programming. From basic projects to advanced innovations, ProCode empowers you to explore versatile applications and unleash your coding creativity. ProCode isn't just a device – it's your gateway to coding excellence. Start your coding journey today and discover the perfect fusion of innovation and simplicity with ProCode!",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "What Next ??? ",
+    "subtitle": "Level up your coding journey with Pro-code today!",
+    "description": "Ready to embark on a coding adventure? Unlock your coding potential with ProCode! Register  now to explore the world of block programming and ignite your creativity. From beginners to advanced programmers, ProCode is your ultimate coding companion. Join the coding revolution and start coding with ProCode today!",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "name": "Compact and Portable Design ",
+        "description": "The small and lightweight design of ProCode makes it easily portable, allowing for coding on the go.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "Easy Plug-and-Play Functionality",
+        "description": "Easy Plug-and-Play Functionality: ProCode offers a seamless plug-and-play experience, making it effortless to connect and start coding without any hassle.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "User-Friendly Website Integration",
+        "description": "With ProCode, you can seamlessly connect to our user-friendly website, unlocking the power of block programming for a smooth coding experience.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "Extensive Learning Resources",
+        "description": "ProCode provides access to a wealth of learning resources, including tutorials, documentation, and coding examples, to support your coding journey and help you master new skills.",
         "icon": "/assets/images/ts.png"
       }
     ]
@@ -124,22 +124,22 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "Shop Now",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Privacy Policy",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Terms of Use",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Shipping & Cancellations ",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       }
