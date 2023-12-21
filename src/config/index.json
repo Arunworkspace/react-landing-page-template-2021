@@ -22,13 +22,21 @@
       "href": "about"
     }
   ],
+
   "callToAction": {
     "text": "Get started",
     "href": "#"
   },
+
+  "carousel": [
+    "https://picsum.photos/600/1000",
+    "https://images.unsplash.com/photo-1579353977828-2a4eab540b9a?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2FtcGxlfGVufDB8fDB8fHww",
+    "https://picsum.photos/200/300"
+  ],
+
   "mainHero": {
     "title": " Unlock Your  ",
-     "subtitle": "Coding Potential",
+    "subtitle": "Coding Potential",
     "description": "Welcome to Elgorithm – the ultimate platform for a truly immersive and exciting coding experience. Our innovative platform is built on a fusion of creativity, algorithms, and electronics, allowing users to see the tangible impact of their code in the physical world. By seamlessly integrating microcontrollers and sensors, we offer a unique approach to coding that's both accessible and fun for all ages. With block programming as the foundation, our drag-and-drop process simplifies the intricacies of coding, visualizing the power and potential of algorithms. Join us now and unlock your coding potential today.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
@@ -50,7 +58,7 @@
       },
       {
         "title": "Low code to pro-code",
-        "description":"Experience the future of coding with ProCode! This cutting-edge mini computer is designed for all skill levels, offering easy plug-and-play functionality and seamless block programming. From basic projects to advanced innovations, ProCode empowers you to explore versatile applications and unleash your coding creativity. ProCode isn't just a device – it's your gateway to coding excellence. Start your coding journey today and discover the perfect fusion of innovation and simplicity with ProCode!",
+        "description": "Experience the future of coding with ProCode! This cutting-edge mini computer is designed for all skill levels, offering easy plug-and-play functionality and seamless block programming. From basic projects to advanced innovations, ProCode empowers you to explore versatile applications and unleash your coding creativity. ProCode isn't just a device – it's your gateway to coding excellence. Start your coding journey today and discover the perfect fusion of innovation and simplicity with ProCode!",
         "img": "/assets/images/product2.jpg"
       }
     ]

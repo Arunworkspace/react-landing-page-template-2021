@@ -4,3 +4,5 @@ export const AppConfig = {
   description: 'Production ready plug n play landing page!',
   locale: 'en',
 };
+
+

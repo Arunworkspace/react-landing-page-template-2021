@@ -26,3 +26,6 @@ a:hover {
 .content ul {
   @apply my-6;
 }
+.main{
+  padding: 16px,
+}
